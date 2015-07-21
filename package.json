@@ -1,0 +1,23 @@
+{
+  "name": "nodcha-chai-latte",
+  "version": "1.0.0",
+  "description": "Learning Mochai, Chai and Node",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jybjones/Nodcha-Chai-Latte.git"
+  },
+  "author": "Jennifer Jones <jybjones@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jybjones/Nodcha-Chai-Latte/issues"
+  },
+  "homepage": "https://github.com/jybjones/Nodcha-Chai-Latte#readme",
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "mocha": "^2.2.5"
+  }
+}
