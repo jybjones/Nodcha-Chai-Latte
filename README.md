@@ -2,4 +2,6 @@
 
 [![Dependency Status](https://david-dm.org/jybjones/Nodcha-Chai-Latte.svg)](https://david-dm.org/jybjones/Nodcha-Chai-Latte) [![devDependency Status](https://david-dm.org/jybjones/Nodcha-Chai-Latte/dev-status.svg)](https://david-dm.org/jybjones/Nodcha-Chai-Latte#info=devDependencies)
 [![NSS Cohort 9](https://img.shields.io/badge/NSS-Cohort%209-ff69b4.svg)](http://nashvillesoftwareschool.com)
+
+
 Learning Mocha, Chai and Node
